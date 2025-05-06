@@ -24,5 +24,5 @@ Durante a demonstração, aprendi:
 - A experiência prática foi essencial para entender o funcionamento.  
 
 ## 💾 Como acessar este projeto?  
-O repositório pode ser acessado em: [Link do Repositório](https://github.com/seu-usuario/seu-repositorio)  
+O repositório pode ser acessado em: [Link do Repositório](https://github.com/Rafaeldovale/copiloto)  
 
